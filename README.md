@@ -12,4 +12,6 @@
 
   HashMap
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java 8系列之重新认识HashMap - 美团技术团队](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/%E7%AE%97%E6%B3%95/HashMap/Java%208%E7%B3%BB%E5%88%97%E4%B9%8B%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86HashMap%20-%20%E7%BE%8E%E5%9B%A2%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F.html)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java HashMap源码分析](http://www.importnew.com/31096.html)
