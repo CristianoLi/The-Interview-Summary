@@ -24,7 +24,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anatomy of RecyclerView(英文，需要翻墙)](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
 
-* [Glide](https://www.jianshu.com/p/ac4918afd9b8)
+* [Glide缓存机制](https://www.jianshu.com/p/17644406396b)
 
 * [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
 
