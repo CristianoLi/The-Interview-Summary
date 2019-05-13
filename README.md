@@ -27,4 +27,6 @@
 
  [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
 
- ![Activity启动流程]()
+ Activity启动流程
+
+ ![Activity启动流程](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.png)
