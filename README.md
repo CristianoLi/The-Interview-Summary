@@ -31,3 +31,15 @@
 * Activity启动流程
 
  ![Activity启动流程](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.png)
+
+* Binder机制  
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[图文详解 Android Binder跨进程通信机制 原理](https://www.cnblogs.com/xinmengwuheng/p/7070167.html)  
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Binder机制](https://www.jianshu.com/p/c7bcb4c96b38)
+
+* [深入理解ClassLoader工作机制](https://blog.csdn.net/u014634338/article/details/81434327)
+
+* [从源码出发浅析Android TV的焦点移动原理](https://blog.csdn.net/archer_zoro/article/details/60605578)
+
+* [Android 大图加载](https://www.jianshu.com/p/7c81d3742c38)
