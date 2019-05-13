@@ -43,3 +43,5 @@
 * [从源码出发浅析Android TV的焦点移动原理](https://blog.csdn.net/archer_zoro/article/details/60605578)
 
 * [Android 大图加载](https://www.jianshu.com/p/7c81d3742c38)
+
+* [热修复——深入浅出原理与实现](https://blog.csdn.net/CSDN_LQR/article/details/78534065)
