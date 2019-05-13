@@ -11,22 +11,23 @@
 * ### [常考察点](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Company%20Interview/%E5%B8%B8%E8%80%83%E7%82%B9.md)
 ---
 * ### 面试复习（[知识树图](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Summary.png)）
-[常考排序](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/%E6%8E%92%E5%BA%8F/%E5%B8%B8%E8%80%83%E6%8E%92%E5%BA%8F.md)
 
-  HashMap
+* [常考排序](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/%E6%8E%92%E5%BA%8F/%E5%B8%B8%E8%80%83%E6%8E%92%E5%BA%8F.md)
+
+* HashMap
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java HashMap源码分析](http://www.importnew.com/31096.html)
 
- Recyclerview缓存
+* Recyclerview缓存
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anatomy of RecyclerView(英文，需要翻墙)](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
 
- [Glide](https://www.jianshu.com/p/ac4918afd9b8)
+* [Glide](https://www.jianshu.com/p/ac4918afd9b8)
 
- [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
+* [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
 
- Activity启动流程
+* Activity启动流程
 
  ![Activity启动流程](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.png)
