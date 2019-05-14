@@ -17,13 +17,13 @@
 
 * HashMap
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Java HashMap源码分析](http://www.importnew.com/31096.html)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java HashMap源码分析](http://www.importnew.com/31096.html)
 
 * Recyclerview缓存
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anatomy of RecyclerView(英文，需要翻墙)](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Anatomy of RecyclerView(英文，需要翻墙)](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
 
 * [Glide缓存机制](https://www.jianshu.com/p/17644406396b)
 
@@ -35,9 +35,9 @@
 
 * Binder机制  
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[图文详解 Android Binder跨进程通信机制 原理](https://www.cnblogs.com/xinmengwuheng/p/7070167.html)  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [图文详解 Android Binder跨进程通信机制 原理](https://www.cnblogs.com/xinmengwuheng/p/7070167.html)  
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Binder机制](https://www.jianshu.com/p/c7bcb4c96b38)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Binder机制](https://www.jianshu.com/p/c7bcb4c96b38)
 
 * [深入理解ClassLoader工作机制](https://blog.csdn.net/u014634338/article/details/81434327)
 
