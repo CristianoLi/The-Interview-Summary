@@ -11,16 +11,14 @@
 * ### [常考察点](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Company%20Interview/%E5%B8%B8%E8%80%83%E7%82%B9.md)
 * ### [Kotlin](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Company%20Interview/Kotlin.md)
 * ### [OpenGL](https://learnopengl-cn.github.io/)
----
 * ### 面试复习（[知识树图](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Summary.png)）
+---
+## 算法
 
 * [常考排序](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/%E6%8E%92%E5%BA%8F/%E5%B8%B8%E8%80%83%E6%8E%92%E5%BA%8F.md)
 
-* HashMap
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java HashMap源码分析](http://www.importnew.com/31096.html)
+---
+## Android
 
 * Recyclerview缓存
 
@@ -28,10 +26,7 @@
 
 * [Glide缓存机制](https://www.jianshu.com/p/17644406396b)
 
-* [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
-
 * Activity启动流程
-
  ![Activity启动流程](https://github.com/CristianoLi/The-Interview-Summary/blob/master/Prepare%20Interview/Activity%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.png)
 
 * Binder机制  
@@ -40,10 +35,19 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Binder机制](https://www.jianshu.com/p/c7bcb4c96b38)
 
-* [深入理解ClassLoader工作机制](https://blog.csdn.net/u014634338/article/details/81434327)
-
 * [从源码出发浅析Android TV的焦点移动原理](https://blog.csdn.net/archer_zoro/article/details/60605578)
 
 * [Android 大图加载](https://www.jianshu.com/p/7c81d3742c38)
 
 * [热修复——深入浅出原理与实现](https://blog.csdn.net/CSDN_LQR/article/details/78534065)
+---
+## Java
+* HashMap
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java 8系列之重新认识HashMap - 美团技术团队](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java HashMap源码分析](http://www.importnew.com/31096.html)
+
+* [深入理解java垃圾回收算法](https://www.cnblogs.com/huajiezh/p/5769255.html)
+
+* [深入理解ClassLoader工作机制](https://blog.csdn.net/u014634338/article/details/81434327)
